@@ -28,14 +28,5 @@ Compare personalized recommendations against a popularity baseline
 Explore diversity, explainability, and cold-start strategies
 
 ## Technologies Used
-Technology	Purpose
-Python	Core implementation
-Google Colab	Development environment
-Google Drive	Dataset and model storage
-Pandas	Data preprocessing and manipulation
-NumPy	Embedding and vector operations
-PyTorch	Transformer model execution
-Sentence Transformers	Multilingual text embeddings
-Hugging Face	Pretrained model access
-Scikit-learn	Evaluation metrics
-Matplotlib / Seaborn	Planned visualization
+
+Python, Google Colab, Google Drive, Pandas, NumPy, PyTorch, Sentence Transformers	Multilingual text embeddings, Hugging Face	Pretrained model access, Scikit-learn, Matplotlib
